@@ -25,7 +25,7 @@
         erro.style.display = 'none'
         res.style.display = 'block'
         res.style.backgroundColor = 'green'
-        res.innerHTML = `Correto, ${na} é maior que ${nb}`
+        res.innerHTML = `Correto, ${nb} é maior que ${na}`
     }
 
 }
